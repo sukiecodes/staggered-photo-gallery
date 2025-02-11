@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+    <photo>
+        <title>Carnations</title>
+        <file>carnation.jpg</file>
+    </photo>
+    <photo>
+        <title>Daisies</title>
+        <file>daisy.jpg</file>
+    </photo>
+    <photo>
+        <title>Lavenders</title>
+        <file>lavender.jpg</file>
+    </photo>
+    <photo>
+        <title>Lilies</title>
+        <file>lily.jpg</file>
+    </photo>
+    <photo>
+        <title>Marigolds</title>
+        <file>marigold.jpg</file>
+    </photo>
+    <photo>
+        <title>Roses</title>
+        <file>rose.jpg</file>
+    </photo>
+    <photo>
+        <title>Sunflowers</title>
+        <file>sunflower.jpg</file>
+    </photo>
+</photos>
